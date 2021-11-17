@@ -1,0 +1,10 @@
+﻿[ChangeLog]
+
+[v1.0 - 00/00/2018]
+First version.
+
+[v1.1 - 00/00/2018] 
+Imroved graphics.
+Improved audio.
+Improved performances.
+Improved gameplay experience.

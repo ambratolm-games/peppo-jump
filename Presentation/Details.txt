@@ -1,0 +1,35 @@
+﻿[Details]
+
+[General]
+Title : Peppo Jump
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+Keep jumping more peppo bro !
+Peppo must pay attention and jump in the right time to dodge incoming projectiles.
+Tap Screen to Jump and avoid getting hit by the fast projectiles.
+
+[How To Play]
+Jump to dodge projectiles.
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm
